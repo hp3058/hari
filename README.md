@@ -1,2 +1,2 @@
-# hari
-creating a lab project
+hey hari,
+its my first project
